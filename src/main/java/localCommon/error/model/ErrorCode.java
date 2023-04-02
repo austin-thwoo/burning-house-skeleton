@@ -1,4 +1,4 @@
-package common.error.model;
+package localCommon.error.model;
 
 public enum ErrorCode {
 

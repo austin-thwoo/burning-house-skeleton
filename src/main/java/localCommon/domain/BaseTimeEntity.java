@@ -1,4 +1,4 @@
-package common.domain;
+package localCommon.domain;
 
 
 import jakarta.persistence.EntityListeners;

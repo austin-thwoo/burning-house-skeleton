@@ -1,4 +1,4 @@
-package common.dto.request;
+package localCommon.dto.request;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
