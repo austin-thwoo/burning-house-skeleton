@@ -1,4 +1,4 @@
-package com.codingfist.burninghouseskeleton.common.dto.request;
+package common.dto.request;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;

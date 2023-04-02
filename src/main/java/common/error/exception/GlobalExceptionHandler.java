@@ -1,8 +1,8 @@
-package com.codingfist.burninghouseskeleton.common.error.exception;
+package common.error.exception;
 
 
-import com.codingfist.burninghouseskeleton.common.dto.response.ErrorResponse;
-import com.codingfist.burninghouseskeleton.common.error.model.ErrorCode;
+import common.dto.response.ErrorResponse;
+import common.error.model.ErrorCode;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
