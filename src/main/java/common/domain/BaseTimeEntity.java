@@ -1,4 +1,4 @@
-package com.codingfist.burninghouseskeleton.common.domain;
+package common.domain;
 
 
 import jakarta.persistence.EntityListeners;
