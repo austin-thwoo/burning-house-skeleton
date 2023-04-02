@@ -1,7 +1,7 @@
-package common.error.exception;
+package localCommon.error.exception;
 
 
-import common.error.model.ErrorCode;
+import localCommon.error.model.ErrorCode;
 
 public class BusinessException extends RuntimeException {
 

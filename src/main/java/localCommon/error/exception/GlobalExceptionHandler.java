@@ -1,8 +1,8 @@
-package common.error.exception;
+package localCommon.error.exception;
 
 
-import common.dto.response.ErrorResponse;
-import common.error.model.ErrorCode;
+import localCommon.dto.response.ErrorResponse;
+import localCommon.error.model.ErrorCode;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
