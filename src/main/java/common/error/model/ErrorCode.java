@@ -1,4 +1,4 @@
-package com.codingfist.burninghouseskeleton.common.error.model;
+package common.error.model;
 
 public enum ErrorCode {
 
